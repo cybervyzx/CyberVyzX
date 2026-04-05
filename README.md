@@ -92,7 +92,7 @@ AI accelerates learning — it doesn’t replace it.
 ## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
