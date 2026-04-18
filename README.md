@@ -1,162 +1,163 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdmbzhxOW16czJsNGJsdXRyM2J6aTBxOWk0MTJhNm1uczdxaHV3bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/r3oOLlq6oKUw2TCMKD/giphy.gif" width="45"/> vyzxz
+<p align="center">
+  <img src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" width="300"/>
+</p>
 
-<img align="right" alt="coding" src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" width="260"/>
+<h1 align="center">⚡ CYBER VYZX</h1>
+<p align="center"><i>Build. Break. Understand. Repeat.</i></p>
 
-> Building real systems. Learning aggressively. No shortcuts.
-
----
-
-## 👋 Hi, I’m vyzxz
-
-**Developer | AI/ML Enthusiast | Systems Thinker**
-
-I build **real software**, contribute to **meaningful open source**, and focus on **strong engineering fundamentals**.  
-I value depth, clarity, and consistency over hype.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Developer+%7C+Security+Enthusiast;No+Shortcuts.+Only+Understanding.;System+Over+Surface.;Think+Deep.+Build+Real."/>
+</p>
 
 ---
 
-## 🧠 What I Do (Clearly & Honestly)
+## 👁‍🗨 Identity
+whoami → Vansh Baghel (CYBER VYZX)
 
-- **Software Engineering:** Full-stack development with clean architecture
-- **AI / Machine Learning:** Practical ML, data handling, and experimentation
-- **Open Source:** Contributor to real-world, non-toy projects
-- **Community Building:** Creating focused, high-signal learning spaces
-- **Problem Solving:** Competitive programming & system-level thinking
+role → Developer
+Security Learner
+System Builder
 
----
+location → India 🇮🇳
 
-## 🎯 Current Engineering Focus
-
-- Building **production-grade full-stack systems**
-- Strengthening **DSA & system design fundamentals**
-- Applying **machine learning to real problems**
-- Writing **clean, readable, maintainable code**
-- Contributing to **impactful open-source projects**
-
-> Short-term: Become dangerously good at fundamentals  
-> Long-term: Build systems people actually rely on
+status → Learning aggressively
+Building quietly
 
 ---
 
-## 🤖 How I Use AI (Responsibly)
+## 🧠 Core Philosophy
 
-- AI is used for **review, explanation, and optimization**
-- I avoid blind copy-paste
-- Every AI-assisted solution is **rewritten and fully understood**
-- Thinking comes first, tools come second
+- No scripts without understanding  
+- No tools without fundamentals  
+- No hype without proof  
+- No shortcuts. Ever.
 
-AI accelerates learning — it doesn’t replace it.
-
----
-
-## 🚀 Featured Project — VYZEDU
-
-[![Join VYZEDU Discord](https://img.shields.io/badge/Join%20VYZEDU%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/j5UNDNBQBV)
-
-**VYZEDU** is a focused study & productivity hub for **NEET & JEE aspirants**.
-
-**What it offers**
-- Peer-driven learning community
-- Curated notes & resources
-- Focus sessions & productivity systems
-- Healthy competition & collaboration
-
-> Built to reduce noise. Designed to increase results.
+> “Most people run tools. Few understand systems.”
 
 ---
 
-## 📌 Pinned Work
+## ⚔️ What I Actually Do
 
-- **VYZX STUDIOS (Marketing Agenct)**  
-  Help Creators to grow and provide many marketing services.
-- **VYZEDU Platform**  
-  Community-driven study & productivity ecosystem.
-
-- **Full-Stack Experiments**  
-  Auth systems, APIs, dashboards, and deployed web apps.
-
-> More projects are actively being built and documented.
+- Build real-world systems (not tutorial clones)  
+- Break applications to understand vulnerabilities  
+- Study networking, OS internals, and protocols deeply  
+- Write clean, efficient, maintainable code  
+- Explore cybersecurity beyond surface-level tools  
 
 ---
 
-## 🧱 Engineering Principles I Follow
+## 🧬 Current Focus
 
-- Clarity over cleverness
-- Simplicity scales better than complexity
-- Documentation is part of the product
-- Bugs are feedback, not failure
-- Consistency beats motivation
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-### Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+- Deep dive into Networking & System Internals  
+- Learning Web Security & Exploitation Concepts  
+- Building custom tools (not script-kid stuff)  
+- Strengthening DSA + core programming  
+- Developing real-world deployable projects  
 
 ---
 
-## 📚 Learning Roadmap (2025)
+## 🤖 AI Usage (Controlled)
 
-- Advanced JavaScript & TypeScript
-- Backend system design
-- Database internals (SQL & NoSQL)
-- Machine learning pipelines
-- Cloud & deployment workflows
-- Large-scale open-source collaboration
+- Used for debugging, explanations, optimization  
+- Never blind copy-paste  
+- Everything rewritten and understood  
+
+> AI is a tool. Thinking is the weapon.
+
+---
+
+## 🚀 Projects
+
+### ⚡ VYZEDU
+Focused study + productivity ecosystem for serious students  
+
+- Peer-driven learning  
+- Clean resources  
+- Productivity systems  
+
+### 🧠 Custom Tools (WIP)
+Recon • Automation • Utility scripts  
+
+### 🌐 Full Stack Builds
+Auth systems • APIs • Dashboards • Deployment  
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+
+### ⚙️ Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
+![VS Code](https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode)
+
+### 🔐 Security & Networking
+![Nmap](https://img.shields.io/badge/Nmap-000?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-000?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-000?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/Kali-000?style=flat-square&logo=kalilinux)
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyzxz&theme=vision-friendly-dark&show_icons=true" width="49%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vyzxz&theme=vision-friendly-dark" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vyzxz&theme=dark&show_icons=true" width="49%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vyzxz&theme=dark" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyzxz&layout=compact&theme=vision-friendly-dark" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyzxz&layout=compact&theme=dark" width="49%"/>
 </p>
 
 ---
 
-## 🤝 Connect
+## 📡 Connect
 
-<p>
-  <a href="https://discord.gg/j5UNDNBQBV"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:vyntrion@vanshz.xyz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  <a href="https://vyzx.live">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=vyzxz&icon=1&color=4)](https://visitcount.itsvg.in)
+## 🧱 Engineering Principles
 
-<!--
-Built with intent.
-Focused on fundamentals.
-No shortcuts.
--->
+- Clarity > cleverness  
+- Simplicity scales  
+- Documentation matters  
+- Bugs = feedback  
+- Consistency > motivation  
+
+---
+
+## 📚 Learning Roadmap
+
+- Advanced JavaScript & backend systems  
+- Deep networking & security concepts  
+- System design fundamentals  
+- Machine learning basics  
+- Open-source contribution  
+
+---
+
+## 🧾 Final Note
+This profile is not built to impress.
+It’s built to reflect discipline.
+
+If you get it, you get it.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg"/>
+</p>
