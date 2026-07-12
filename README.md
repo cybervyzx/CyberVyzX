@@ -1,163 +1,237 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" width="300"/>
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif" width="260"/>
+
+# CYBER VYZX
+
+### Developer • Cybersecurity Learner • System Builder
+
+*"Build. Break. Understand. Repeat."*
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=700&lines=Developer+%7C+Cybersecurity+Learner;Building+Systems+That+Solve+Real+Problems.;Learning+Through+Understanding.;No+Shortcuts.+Only+Fundamentals."/>
+
+</div>
+
+---
+
+# About
+
+```text
+Name      : Vansh Baghel
+Alias     : CYBER VYZX
+Location  : India
+Role      : Full Stack Developer & Cybersecurity Learner
+Focus     : Systems • Security • Software Engineering
+Status    : Building. Learning. Improving.
+```
+
+I enjoy building real-world software, understanding how systems work internally, and studying cybersecurity from first principles. My goal is to become an engineer who understands technology beyond frameworks and automation.
+
+---
+
+# Philosophy
+
+> Understanding is more valuable than memorization.
+
+Core principles:
+
+- Learn fundamentals before using tools
+- Build projects that solve real problems
+- Write maintainable and scalable code
+- Automate only after understanding the process
+- Keep learning through experimentation
+
+---
+
+# Current Focus
+
+- Networking Fundamentals
+- Operating System Internals
+- Web Application Security
+- Secure Backend Development
+- Full Stack Engineering
+- Data Structures & Algorithms
+- Linux System Administration
+- Cloud & Container Technologies
+
+---
+
+# Featured Projects
+
+## VYZEDU
+
+A productivity and learning platform designed for students.
+
+**Features**
+
+- Learning resources
+- Progress tracking
+- Clean dashboard
+- Productivity tools
+
+---
+
+## Security Utilities
+
+Custom-built utilities for learning cybersecurity concepts.
+
+Current work includes:
+
+- Reconnaissance tools
+- Network utilities
+- Automation scripts
+- Log analysis
+- Security experiments
+
+---
+
+## Full Stack Applications
+
+Building production-oriented applications with:
+
+- Authentication
+- REST APIs
+- Dashboards
+- Database Design
+- Deployment Pipelines
+
+---
+
+# Technology Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,php,bash"/>
 </p>
 
-<h1 align="center">⚡ CYBER VYZX</h1>
-<p align="center"><i>Build. Break. Understand. Repeat.</i></p>
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mysql,prisma"/>
+</p>
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,cloudflare"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+</p>
+
+## Security
+
+- Burp Suite
+- Wireshark
+- Nmap
+- OWASP Methodology
+- Linux Security
+- Network Analysis
+
+---
+
+# GitHub Statistics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Developer+%7C+Security+Enthusiast;No+Shortcuts.+Only+Understanding.;System+Over+Surface.;Think+Deep.+Build+Real."/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vyzxz&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=vyzxz&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyzxz&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 👁‍🗨 Identity
-whoami → Vansh Baghel (CYBER VYZX)
+# Engineering Principles
 
-role → Developer
-Security Learner
-System Builder
-
-location → India 🇮🇳
-
-status → Learning aggressively
-Building quietly
-
----
-
-## 🧠 Core Philosophy
-
-- No scripts without understanding  
-- No tools without fundamentals  
-- No hype without proof  
-- No shortcuts. Ever.
-
-> “Most people run tools. Few understand systems.”
+```
+Code for humans first.
+Optimize when necessary.
+Document everything important.
+Keep systems simple.
+Security is part of design.
+Consistency beats intensity.
+```
 
 ---
 
-## ⚔️ What I Actually Do
+# Learning Roadmap
 
-- Build real-world systems (not tutorial clones)  
-- Break applications to understand vulnerabilities  
-- Study networking, OS internals, and protocols deeply  
-- Write clean, efficient, maintainable code  
-- Explore cybersecurity beyond surface-level tools  
-
----
-
-## 🧬 Current Focus
-
-- Deep dive into Networking & System Internals  
-- Learning Web Security & Exploitation Concepts  
-- Building custom tools (not script-kid stuff)  
-- Strengthening DSA + core programming  
-- Developing real-world deployable projects  
+- Advanced JavaScript
+- TypeScript
+- Backend Architecture
+- Operating Systems
+- Networking
+- Web Security
+- Reverse Engineering Basics
+- System Design
+- Cloud Infrastructure
+- Open Source Contributions
 
 ---
 
-## 🤖 AI Usage (Controlled)
+# Goals
 
-- Used for debugging, explanations, optimization  
-- Never blind copy-paste  
-- Everything rewritten and understood  
+2026 Objectives
 
-> AI is a tool. Thinking is the weapon.
-
----
-
-## 🚀 Projects
-
-### ⚡ VYZEDU
-Focused study + productivity ecosystem for serious students  
-
-- Peer-driven learning  
-- Clean resources  
-- Productivity systems  
-
-### 🧠 Custom Tools (WIP)
-Recon • Automation • Utility scripts  
-
-### 🌐 Full Stack Builds
-Auth systems • APIs • Dashboards • Deployment  
+- Build production-grade projects
+- Strengthen backend engineering skills
+- Contribute to open source
+- Improve cybersecurity knowledge
+- Publish technical articles
+- Participate in hackathons
+- Master Linux environments
 
 ---
 
-## 🧰 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
-
-### ⚙️ Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
-![VS Code](https://img.shields.io/badge/VSCode-000?style=flat-square&logo=visualstudiocode)
-
-### 🔐 Security & Networking
-![Nmap](https://img.shields.io/badge/Nmap-000?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-000?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-000?style=flat-square)
-![Kali Linux](https://img.shields.io/badge/Kali-000?style=flat-square&logo=kalilinux)
-
----
-
-## 📊 GitHub Activity
+# Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyzxz&theme=dark&show_icons=true" width="49%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vyzxz&theme=dark" width="49%"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyzxz&layout=compact&theme=dark" width="49%"/>
+<a href="https://vyzx.live">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vyzxz">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 📡 Connect
+# Quote
 
-<p align="center">
-  <a href="https://vyzx.live">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+> "Technology rewards curiosity, discipline, and persistence—not shortcuts."
 
 ---
 
-## 🧱 Engineering Principles
+<div align="center">
 
-- Clarity > cleverness  
-- Simplicity scales  
-- Documentation matters  
-- Bugs = feedback  
-- Consistency > motivation  
+<img src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg"/>
 
----
+<br><br>
 
-## 📚 Learning Roadmap
+<sub>Designed with simplicity, engineered for clarity.</sub>
 
-- Advanced JavaScript & backend systems  
-- Deep networking & security concepts  
-- System design fundamentals  
-- Machine learning basics  
-- Open-source contribution  
-
----
-
-## 🧾 Final Note
-This profile is not built to impress.
-It’s built to reflect discipline.
-
-If you get it, you get it.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg"/>
-</p>
+</div>
